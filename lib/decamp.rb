@@ -5,7 +5,7 @@ require "nokogiri"
 require "decamp/version"
 require "decamp/response/generic"
 require "decamp/parser/nokogiri"
-require "decamp/scraper"
+require "decamp/schedule"
 
 module Decamp
   extend self

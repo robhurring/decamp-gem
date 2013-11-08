@@ -1,5 +1,5 @@
 module Decamp
-  class Scraper
+  class Schedule
     include HTTParty
     base_uri 'decamp.com'
     parser Decamp::Parser::Nokogiri

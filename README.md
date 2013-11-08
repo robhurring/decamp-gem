@@ -1,6 +1,6 @@
 # Decamp
 
-TODO: Write a gem description
+This is a small scraper for the decamp.com bus schedules. It is a hack right now since their HTML is a bit of a mess and I'm trying to play around and see how consistent I can get some of it.
 
 ## Installation
 
