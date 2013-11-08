@@ -21,11 +21,11 @@ http_interactions:
       Server:
       - Microsoft-IIS/7.0
       Set-Cookie:
-      - ASPSESSIONIDACRCQQCA=PIENOKECNGFBMIJEHMCBKHPC; path=/
+      - ASPSESSIONIDACRCQQCA=DLENOKECAEDJJICDECCIGPJF; path=/
       X-Powered-By:
       - ASP.NET
       Date:
-      - Fri, 08 Nov 2013 15:58:39 GMT
+      - Fri, 08 Nov 2013 16:16:18 GMT
     body:
       encoding: UTF-8
       string: "<link href=\"decamp.css\" rel=\"stylesheet\" type=\"text/css\">\r\n\r\n\r\n<p
@@ -331,5 +331,5 @@ http_interactions:
         href=\"javascript:window.close()\" class=\"text\"><strong>Close</strong></a>\r\n
         \ <br><br>\r\n  </p>\r\n"
     http_version: 
-  recorded_at: Fri, 08 Nov 2013 15:58:39 GMT
+  recorded_at: Fri, 08 Nov 2013 16:16:18 GMT
 recorded_with: VCR 2.7.0
