@@ -1,0 +1,382 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://decamp.com/printRoute.asp?f_day=0&f_route=WO-NY&f_time=M
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Length:
+      - '23962'
+      Content-Type:
+      - text/html
+      Server:
+      - Microsoft-IIS/7.0
+      Set-Cookie:
+      - ASPSESSIONIDACRCQQCA=AJENOKECJOOLNBLHCMPNCDJM; path=/
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Fri, 08 Nov 2013 15:58:39 GMT
+    body:
+      encoding: UTF-8
+      string: "<link href=\"decamp.css\" rel=\"stylesheet\" type=\"text/css\">\r\n\r\n\r\n<p
+        class=\"text\"> <br class=\"br\">     \r\n<table border=\"0\" bgcolor=\"5d797a\"
+        cellpadding=\"2\" cellspacing=\"0\" width=\"100%\">\r\n<tr >\r\n<td colspan=\"100\"
+        align=\"center\"><h2><font face=arial color=\"#F7D610\">\r\nWest Orange to
+        New York</font></h2>\r\n</td>\r\n</tr>\r\n<tr>\r\n\r\n\t<td valign=\"top\"
+        ><b><font face=arial size=2 color=\"#F7D610\">\r\n\tSpecial_Info\r\n\t</font></B></td>\r\n\r\n\t<td
+        valign=\"top\" ><b><font face=arial size=2 color=\"#F7D610\">\r\n\tW.CALD_
+        Kings\r\n\t</font></B></td>\r\n\r\n\t<td valign=\"top\" ><b><font face=arial
+        size=2 color=\"#F7D610\">\r\n\tROSELAND Center\r\n\t</font></B></td>\r\n\r\n\t<td
+        valign=\"top\" ><b><font face=arial size=2 color=\"#F7D610\">\r\n\tPleasantdale
+        Center\r\n\t</font></B></td>\r\n\r\n\t<td valign=\"top\" ><b><font face=arial
+        size=2 color=\"#F7D610\">\r\n\tW.ORANGE Eagle Rock & Prospect\r\n\t</font></B></td>\r\n\r\n\t<td
+        valign=\"top\" ><b><font face=arial size=2 color=\"#F7D610\">\r\n\tW.ORANGE
+        Mississippi  & Harrison\r\n\t</font></B></td>\r\n\r\n\t<td valign=\"top\"
+        ><b><font face=arial size=2 color=\"#F7D610\">\r\n\tMONTCLAIR: YMCA on PARK
+        ST\r\n\t</font></B></td>\r\n\r\n\t<td valign=\"top\" ><b><font face=arial
+        size=2 color=\"#F7D610\">\r\n\tUPPER_MTC: Watchung & PARK ST\r\n\t</font></B></td>\r\n\r\n\t<td
+        valign=\"top\" ><b><font face=arial size=2 color=\"#F7D610\">\r\n\tUPPER_MTC:
+        Valley Rd & Bellevue\r\n\t</font></B></td>\r\n\r\n\t<td valign=\"top\" ><b><font
+        face=arial size=2 color=\"#F7D610\">\r\n\tUPPER_MTC: Valley Rd & Nassau Pl
+        (Montclair Univ)\r\n\t</font></B></td>\r\n\r\n\t<td valign=\"top\" ><b><font
+        face=arial size=2 color=\"#F7D610\">\r\n\tMontclair Univ Campus Bus Stop\r\n\t</font></B></td>\r\n\r\n\t<td
+        valign=\"top\" ><b><font face=arial size=2 color=\"#F7D610\">\r\n\tVINCENT
+        DR & GROVE ST, Clifton\r\n\t</font></B></td>\r\n\r\n\t<td valign=\"top\" ><b><font
+        face=arial size=2 color=\"#F7D610\">\r\n\tNYC_P/A Bus Terminal\r\n\t</font></B></td>\r\n\r\n</tr>\r\n\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">6:10 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">6:15
+        AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">6:20 AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">6:25 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">6:29
+        AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">6:33 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">7:03
+        AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#CCCCCC\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 6:30AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">6:35AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:40AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 6:45AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        6:49AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 6:53AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        7:23AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">CV </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> FROM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        CROWN </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">VIEW </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">(6:45AM) </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        6:50AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:55AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 7:00AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        7:05AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:09AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:13AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:43AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#CCCCCC\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">CV </td>\r\n\t\t\t\r\n\t\t\t   <td
+        class=\"text\"> FROM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">CROWN
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">VIEW </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">(7:05AM) </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        7:10AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:15AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 7:20AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        7:25AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:29AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:33AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 8:03AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#FFFFFF\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 XP </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 6:25 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        6:35 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:40 AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 6:43 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">EXPRESS
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">I-280 </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">NJTPK </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 7:20 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#CCCCCC\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">CV </td>\r\n\t\t\t\r\n\t\t\t   <td
+        class=\"text\">FROM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">CROWN </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">VIEW </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">(7:25AM)
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">7:30AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">7:35AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        7:40AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">7:45AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">7:49AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:53AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 8:23AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#FFFFFF\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 XP </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 7:05 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        7:15 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:20 AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 7:23 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">EXPRESS
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">I-280 </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">NJTPK </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 8:00 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#CCCCCC\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">CV </td>\r\n\t\t\t\r\n\t\t\t   <td
+        class=\"text\"> FROM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">CROWN
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">VIEW </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">(7:45AM) </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">7:50AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">7:55AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 8:00AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        8:05AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 8:09AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 8:13AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 8:43AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#FFFFFF\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 XP </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 7:35 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        7:45 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:50 AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 7:53 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">EXPRESS
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">I-280 </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">NJTPK </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 8:30 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#CCCCCC\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> </td>\r\n\t\t\t\r\n\t\t\t   <td
+        class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 8:15 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        8:20 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 8:25 AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">VIA </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">GROVE
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">STREET </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 8:32 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        9:02 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 8:30AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        8:35AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 8:39AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 8:43AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 9:13AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#CCCCCC\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 66 </td>\r\n\t\t\t\r\n\t\t\t   <td
+        class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 8:55AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        9:00AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 9:05AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">9:10AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">9:14AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 9:18AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        9:48AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 G </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 9:00AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        9:10AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 9:15AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 9:18AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        9:25AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">    VIA </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  GROVE
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> STREET </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        9:46AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 10:13AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#CCCCCC\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> </td>\r\n\t\t\t\r\n\t\t\t   <td
+        class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  9:45AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  9:50AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  9:55AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ 9:59AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 10:03AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">10:30AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 10:05AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        10:10AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 10:15AM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 10:20AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        10:24AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 10:28AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        10:55AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#CCCCCC\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">12:55PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        1:00 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 1:05 PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 1:10 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        1:14 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 1:18 PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 1:45
+        PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">1:55PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">2:00PM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 2:05 PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 2:10 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        2:14PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 2:18PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 2:45PM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#CCCCCC\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 2:55 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        3:00 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 3:05 PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 3:10 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        3:14 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 3:18 PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 3:45
+        PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">3:55PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        4:00 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 4:05 PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 4:10 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        4:14 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 4:18 PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 4:45
+        PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#CCCCCC\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">4:55PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        5:00PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 5:05PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 5:10PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        5:14PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 5:18PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 5:48PM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 XP </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 5:00PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">BFR
+        & PRU </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 5:20PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 5:23PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">EXPRESS </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  I-280
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  NJTPK </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:20PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#CCCCCC\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td
+        class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  5:25PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ 5:30PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  5:35PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  5:40PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ 5:44PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  5:48PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        \ 6:20PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 5:55PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        6:00PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:05PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 6:10PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        6:14PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:18PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:55AM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#CCCCCC\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 10:25PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        10:30PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 10:35PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 10:40PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        10:44PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">10:48PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 10:52PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        11:15PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 11:45 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        11:50 PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 11:55 PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 12:00 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        12:04 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\"> 12:07 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
+        12:32 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n</table>\r\n<br><br>\r\n
+        \ <table border=\"0\" class=\"text\">\r\n     \r\n    <tr>  \r\n      <td
+        class=\"text\"><strong>G</strong>&nbsp;&nbsp;</td>\r\n       \r\n      <td
+        class=\"text\"><strong>Trips operate via Grove St., Montclair- Upper Montclair</strong>&nbsp;&nbsp;</td>\r\n
+        \      </tr>\r\n     \r\n    <tr>  \r\n      <td class=\"text\"><strong>PRU</strong>&nbsp;&nbsp;</td>\r\n
+        \      \r\n      <td class=\"text\"><strong>Trips operate via Prudential Drive,
+        Roseland</strong>&nbsp;&nbsp;</td>\r\n       </tr>\r\n     \r\n    <tr>  \r\n
+        \     <td class=\"text\"><strong>BFR</strong>&nbsp;&nbsp;</td>\r\n       \r\n
+        \     <td class=\"text\"><strong>Trips operate via Becker Farm Road, Roseland</strong>&nbsp;&nbsp;</td>\r\n
+        \      </tr>\r\n     \r\n    <tr>  \r\n      <td class=\"text\"><strong>S</strong>&nbsp;&nbsp;</td>\r\n
+        \      \r\n      <td class=\"text\"><strong>Trip will not operate Sunday and
+        Holidays.</strong>&nbsp;&nbsp;</td>\r\n       </tr>\r\n     \r\n    <tr>  \r\n
+        \     <td class=\"text\"><strong><u>HOLIDAYS</b></u></strong>&nbsp;&nbsp;</td>\r\n
+        \      \r\n      <td class=\"text\"><strong> New Year's Day, Independence
+        Day, Labor Day, Thanksgiving Day and Christmas Day.<br>Saturday schedule will
+        operate on President's Day.</strong>&nbsp;&nbsp;</td>\r\n       </tr>\r\n
+        \    \r\n    <tr>  \r\n      <td class=\"text\"><strong>MU</strong>&nbsp;&nbsp;</td>\r\n
+        \      \r\n      <td class=\"text\"><strong>Trips operate via Montclair University
+        Campus Bus Stop</strong>&nbsp;&nbsp;</td>\r\n       </tr>\r\n     \r\n    <tr>
+        \ \r\n      <td class=\"text\"><strong>CV</strong>&nbsp;&nbsp;</td>\r\n       \r\n
+        \     <td class=\"text\"><strong>Trips operate to and from Crown View Apartments</strong>&nbsp;&nbsp;</td>\r\n
+        \      </tr>\r\n     \r\n    <tr>  \r\n      <td class=\"text\"><strong>XP</strong>&nbsp;&nbsp;</td>\r\n
+        \      \r\n      <td class=\"text\"><strong>Trips operate via I-280-NJTP to
+        and from Prospect Ave. West Orange</strong>&nbsp;&nbsp;</td>\r\n       </tr>\r\n
+        \    \r\n    <tr>  \r\n      <td class=\"text\"><strong>W</strong>&nbsp;&nbsp;</td>\r\n
+        \      \r\n      <td class=\"text\"><strong>Trips operate via Watchung Ave
+        to Grove St - board busses on Park St West side of Railroad Station  \r\nMontclair
+        university is served throughout the day including weekends, 1 block south
+        of school at Valley Rd and Nassaau Pl</strong>&nbsp;&nbsp;</td>\r\n       </tr>\r\n
+        \    \r\n    <tr>  \r\n      <td class=\"text\"><strong></strong>&nbsp;&nbsp;</td>\r\n
+        \      \r\n      <td class=\"text\"><strong>Weekend routes run Sat, Sun, &
+        Holidays unless otherwise noted</strong>&nbsp;&nbsp;</td>\r\n       </tr>\r\n
+        \    \r\n    <tr>  \r\n      <td class=\"text\"><strong></strong>&nbsp;&nbsp;</td>\r\n
+        \      \r\n      <td class=\"text\"><strong>Montclair university is served
+        throughout the day including weekends, 1 block south of school at Valley Rd
+        and Nassaau Pl</strong>&nbsp;&nbsp;</td>\r\n       </tr>\r\n     \r\n  </table>\r\n
+        \ \r\n     \r\n   <br><br>\r\n   <div align=\"left\" class=\"text\"><font
+        color=\"red\">* Note: To print entire schedule, set printer to Landscape Mode.</font></div>
+        \   \r\n  <br><br>\r\n  <a href=\"javascript:window.print()\" class=\"text\"><strong>Print</strong></a>&nbsp;&nbsp;<a
+        href=\"javascript:window.close()\" class=\"text\"><strong>Close</strong></a>\r\n
+        \ <br><br>\r\n  </p>\r\n"
+    http_version: 
+  recorded_at: Fri, 08 Nov 2013 15:58:39 GMT
+recorded_with: VCR 2.7.0

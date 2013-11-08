@@ -1,6 +1,17 @@
 module Decamp
   class Schedule
     include HTTParty
+
+    # This maps to decamp's "day" parameter when fetching a schedule
+    WEEKDAY = 0
+    WEEKEND = 1
+    HOLIDAY = 1
+
+    # This maps to decam's "time" parameter when fetching a schedule
+    AM = 'AM'
+    PM = 'PM'
+    ALL_DAY = 'M'
+
     base_uri 'decamp.com'
     parser Decamp::Parser::Nokogiri
     format :nokogiri
@@ -12,7 +23,7 @@ module Decamp
     # time    - The time of day (M = all day, AM = am, PM = pm)
     #
     # Returns a scraper, ready to go.
-    def initialize(route, day: 0, time: 'M')
+    def initialize(route, day: WEEKDAY, time: ALL_DAY)
       @route, @day, @time = route, day, time
     end
 
