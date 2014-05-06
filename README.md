@@ -6,15 +6,11 @@ This is a small scraper for the decamp.com bus schedules. It is a hack right now
 
 Add this line to your application's Gemfile:
 
-    gem 'decamp'
+    gem 'decamp', github: 'robhurring/decamp-gem'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install decamp
 
 ## Usage
 
