@@ -18,7 +18,28 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+#### Grabbing a specific route's timetable
+
+```ruby
+# build our new york to west caldwell schedule
+schedule = Decamp::Schedule.new('NY-WC')
+
+# scrape decamp.com to pull back the data
+response = schedule.fetch
+
+if response.ok?
+  puts response.title     # => "New York to West Caldwell"
+  puts response.stops     # => ["NYC P/A Bus Terminal", "NUTLEY: Darling & Kingsland (E)", ...]
+
+  # grab the timetable for this bus schedule
+  timetable = response.timetable
+
+  # find out when the bus stops at "NUTLEY: Darling & Kingsland (E)"
+  route_name = "NUTLEY: Darling & Kingsland (E)"
+  times = timetable.map{ |route| route[route_name] }
+  pp times
+end
+```
 
 ## Contributing
 
