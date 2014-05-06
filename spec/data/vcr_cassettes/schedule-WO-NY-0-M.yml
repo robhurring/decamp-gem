@@ -15,17 +15,17 @@ http_interactions:
       Cache-Control:
       - private
       Content-Length:
-      - '23962'
+      - '23929'
       Content-Type:
       - text/html
       Server:
       - Microsoft-IIS/7.0
       Set-Cookie:
-      - ASPSESSIONIDACRCQQCA=GLENOKECOEAJDHEIKNONKLFK; path=/
+      - ASPSESSIONIDSATSSBQT=DNNLODNDBBBMDDILIFNAMEAE; path=/
       X-Powered-By:
       - ASP.NET
       Date:
-      - Fri, 08 Nov 2013 16:16:18 GMT
+      - Tue, 06 May 2014 16:42:26 GMT
     body:
       encoding: UTF-8
       string: "<link href=\"decamp.css\" rel=\"stylesheet\" type=\"text/css\">\r\n\r\n\r\n<p
@@ -99,7 +99,7 @@ http_interactions:
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#FFFFFF\"
-        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 XP </td>\r\n\t\t\t\r\n\t\t\t
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66R XP </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 6:25 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
         6:35 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:40 AM </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 6:43 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">EXPRESS
@@ -123,7 +123,7 @@ http_interactions:
         \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#FFFFFF\"
-        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 XP </td>\r\n\t\t\t\r\n\t\t\t
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66R XP </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 7:05 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
         7:15 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:20 AM </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 7:23 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">EXPRESS
@@ -147,7 +147,7 @@ http_interactions:
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#FFFFFF\"
-        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 XP </td>\r\n\t\t\t\r\n\t\t\t
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66R XP </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 7:35 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
         7:45 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 7:50 AM </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 7:53 AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">EXPRESS
@@ -192,7 +192,7 @@ http_interactions:
         9:48AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
-        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 G </td>\r\n\t\t\t\r\n\t\t\t
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66R G </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 9:00AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
         9:10AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 9:15AM </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 9:18AM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
@@ -281,30 +281,29 @@ http_interactions:
         </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
-        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 XP </td>\r\n\t\t\t\r\n\t\t\t
+        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66R  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 5:00PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">BFR
         & PRU </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 5:20PM </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 5:23PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
-        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">EXPRESS </td>\r\n\t\t\t\r\n\t\t\t
-        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  I-280
-        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
-        \  <td class=\"text\">  NJTPK </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
-        \ </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\"> 6:20PM </td>\r\n\t\t\t\r\n\t\t\t
+        5:30PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">5:35PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">5:40PM  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">5:45PM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">5:49PM </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">- </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">5:53PM
+        </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">6:30PM </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#CCCCCC\"
         >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td
         class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
-        \  <td class=\"text\">  5:25PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
-        \ 5:30PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  5:35PM </td>\r\n\t\t\t\r\n\t\t\t
-        \  <td class=\"text\">  5:40PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
-        \ 5:44PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
-        \  <td class=\"text\">  5:48PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
-        \ 6:20PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">- </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">- </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">- </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">- </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">- </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">- </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">- </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
-        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr
-        bgcolor=\"#FFFFFF\" >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
+        \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t</tr>\r\n\t\t\r\n\t\t<tr bgcolor=\"#FFFFFF\"
+        >\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">66 MU </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">  </td>\r\n\t\t\t\r\n\t\t\t
         \  <td class=\"text\"> 5:55PM </td>\r\n\t\t\t\r\n\t\t\t   <td class=\"text\">
@@ -378,5 +377,5 @@ http_interactions:
         href=\"javascript:window.close()\" class=\"text\"><strong>Close</strong></a>\r\n
         \ <br><br>\r\n  </p>\r\n"
     http_version: 
-  recorded_at: Fri, 08 Nov 2013 16:16:18 GMT
+  recorded_at: Tue, 06 May 2014 16:42:28 GMT
 recorded_with: VCR 2.7.0
